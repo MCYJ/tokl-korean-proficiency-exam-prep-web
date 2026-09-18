@@ -41,3 +41,7 @@
 - 2026-09-19: project initialized from the proven static-site system and retargeted to KOR-0294 content, app assets and exact Store identities.
 - 2026-09-19: local build generated 34 indexable routes and 36 HTML files; metadata, internal links, exact Store identities, `keep-all`, equal marketplace frames and stale-content rejection passed.
 - 2026-09-19: local HTTP QA returned 200 for all 34 sitemap routes and five key assets; an unknown route returned 404.
+- 2026-09-19: live Store recheck returned Google Play 200 and Apple bundle `app.mcyj.examprep.kor0294`, track ID `6797335125`.
+- 2026-09-19: GitHub Pages workflow run `35367558498` completed successfully.
+- 2026-09-19: production QA returned 200 for all 34 sitemap routes and five key assets; an unknown route returned 404.
+- 2026-09-19: production CSS contains global `word-break: keep-all` and the shared 194 × 75 px marketplace frame; the Korean home contains both exact public Store links.
